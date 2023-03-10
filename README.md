@@ -1,2 +1,2 @@
-# RISC-V32I-Processor
-RISC-V32I Processor Design and Implementation using Verilog HDL 
+# RISC-V32I Processor Design and Implementation using Verilog HDL
+This project showcases the design and implementation of a RISC-V32I processor using Verilog HDL programming language, with the help of Harris, S., & Harris, D.'s "Digital Design and Computer Architecture" textbook as a reference. The processor design includes a classic five-stage pipeline with an instruction decoder, control unit, ALU, and registers, and supports the RISC-V instruction set architecture.
